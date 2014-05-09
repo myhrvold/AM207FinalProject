@@ -16,7 +16,7 @@ For what is Part 1 of the project, see: https://github.com/myhrvold/MH370_MCMC w
 
 =================
 
-Website:
+<b>Website:</b>
 
 Articles
 
