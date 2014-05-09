@@ -33,9 +33,11 @@ http://www.fastcolabs.com/3029199/as-black-box-pings-go-silent-heres-how-data-ca
 <i>Technical Descriptions and Visualizations</i>
 
 Part 1, Version 1
+
 http://nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold-bug_fixes.ipynb?create=1
 
 Part 1, Version 2
+
 http://nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold-V2-Part1.ipynb?create=1
 
 http://nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold-V2-Part2.ipynb?create=1
@@ -43,8 +45,11 @@ http://nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_Cono
 http://nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold-V2-Part3.ipynb?create=1
 
 Part 1, Version 3
+
 http://nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold-V3.ipynb?create=1
 
 Part 2A&B
+
 TBD
+
 
