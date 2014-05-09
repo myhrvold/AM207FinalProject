@@ -1,9 +1,11 @@
 AM207FinalProject
 =================
 
-Final project for <a href="http://iacs-courses.seas.harvard.edu/courses/am207/index.html">AM207: Advanced Scientific Computing: Stochastic Optimization Methods. Monte Carlo Methods for Inference and Data Analysis</a>.
+<b>Modeling the Disappearance of MH370</b>
 
 Soren Larson and Conor Myhrvold
+
+Final project for <a href="http://iacs-courses.seas.harvard.edu/courses/am207/index.html">AM207: Advanced Scientific Computing: Stochastic Optimization Methods. Monte Carlo Methods for Inference and Data Analysis</a>.
 
 =================
 
