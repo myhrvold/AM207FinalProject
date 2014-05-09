@@ -18,7 +18,7 @@ For what is Part 1 of the project, see: https://github.com/myhrvold/MH370_MCMC w
 
 <b>Website:</b>
 
-<u>General Audience Articles</u>
+<p><u>General Audience Articles</u></p>
 
 http://www.fastcolabs.com/3028265/how-i-narrowed-down-the-location-of-malaysia-air-using-monte-carlo-data-models
 
@@ -30,7 +30,7 @@ http://www.fastcolabs.com/3028847/with-new-information-our-data-models-point-to-
 
 http://www.fastcolabs.com/3029199/as-black-box-pings-go-silent-heres-how-data-can-narrow-the-search-for-malaysia-air-flight-37
 
-<u>Technical Descriptions and Visualizations</u>
+<p><u>Technical Descriptions and Visualizations</u></p>
 
 http://nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold-bug_fixes.ipynb?create=1
 
