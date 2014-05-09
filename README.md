@@ -9,10 +9,7 @@ Final project for <a href="http://iacs-courses.seas.harvard.edu/courses/am207/in
 
 Course Instructor: <a href="http://iacs.seas.harvard.edu/people/pavlos-protopapas">Pavlos Protopapas</a>.  Teaching Fellow and Advisor for Project: <a href="http://projects.iq.harvard.edu/seamlessastronomy/people/rahul-dave">Rahul Dave</a>.
 
-<p>Harvard University</p>
-<p>School of Engineering and Applied Sciences (<a href="http://www.seas.harvard.edu/">SEAS</a>)</p>
-<p>Institute for Applied Computational Science (<a href="http://iacs.seas.harvard.edu/">IACS</a>)</p>
-
+<p>Harvard University, School of Engineering and Applied Sciences (<a href="http://www.seas.harvard.edu/">SEAS</a>), Institute for Applied Computational Science (<a href="http://iacs.seas.harvard.edu/">IACS</a>)</p>
 =================
 
 For what is Part 1 of the project, see: https://github.com/myhrvold/MH370_MCMC which is self-referenced and documented. Here we include a Hidden Markov Model and Kalman Filter implementation.
