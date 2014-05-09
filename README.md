@@ -9,9 +9,9 @@ Final project for <a href="http://iacs-courses.seas.harvard.edu/courses/am207/in
 
 Course Instructor: <a href="http://iacs.seas.harvard.edu/people/pavlos-protopapas">Pavlos Protopapas</a>.  Teaching Fellow and Advisor for Project: <a href="http://projects.iq.harvard.edu/seamlessastronomy/people/rahul-dave">Rahul Dave</a>.
 
-Harvard University
-School of Engineering and Applied Sciences (<a href="http://www.seas.harvard.edu/">SEAS</a>)
-Institute for Applied Computational Science (<a href="http://iacs.seas.harvard.edu/">IACS</a>)
+<p>Harvard University</p>
+<p>School of Engineering and Applied Sciences (<a href="http://www.seas.harvard.edu/">SEAS</a>)</p>
+<p>Institute for Applied Computational Science (<a href="http://iacs.seas.harvard.edu/">IACS</a>)</p>
 
 =================
 
