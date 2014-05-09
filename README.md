@@ -57,4 +57,10 @@ Parts 2A&2B
 
 TBD
 
+=================
 
+<b>Poster</b>
+
+See in this repository, or get it here: <a href="https://dl.dropboxusercontent.com/u/14868427/5-9-14MyhrvoldSorenAM207Poster.pdf">Poster Dropbox Link</a>.
+
+Poster for the IACS Advisory Board Poster Session, to be held May 16,2014. Version 2 of original poster presented at <a href="http://www.seas.harvard.edu/designfair">SEAS Design Fair</a> on May 6, 2014.
