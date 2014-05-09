@@ -5,10 +5,16 @@ AM207FinalProject
 
 Soren Larson and Conor Myhrvold
 
-Final project for <a href="http://iacs-courses.seas.harvard.edu/courses/am207/index.html">AM207: Advanced Scientific Computing: Stochastic Optimization Methods. Monte Carlo Methods for Inference and Data Analysis</a>. Course Instructor: <a href="http://iacs.seas.harvard.edu/people/pavlos-protopapas">Pavlos Protopapas</a>. Teaching Fellow and Advisor for Project: <a href="http://projects.iq.harvard.edu/seamlessastronomy/people/rahul-dave">Rahul Dave</a>.
+Final project for <a href="http://iacs-courses.seas.harvard.edu/courses/am207/index.html">AM207: Advanced Scientific Computing: Stochastic Optimization Methods. Monte Carlo Methods for Inference and Data Analysis</a>. 
+
+Course Instructor: <a href="http://iacs.seas.harvard.edu/people/pavlos-protopapas">Pavlos Protopapas</a>. 
+
+Teaching Fellow and Advisor for Project: <a href="http://projects.iq.harvard.edu/seamlessastronomy/people/rahul-dave">Rahul Dave</a>.
 
 Harvard University
+
 School of Engineering and Applied Sciences (<a href="http://www.seas.harvard.edu/">SEAS</a>)
+
 Institute for Applied Computational Science (<a href="http://iacs.seas.harvard.edu/">IACS</a>)
 
 =================
