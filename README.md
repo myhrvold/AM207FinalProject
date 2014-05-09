@@ -1,11 +1,11 @@
 AM207FinalProject
 =================
 
-Final project for AM207: Advanced Scientific Computing: Stochastic Optimization Methods. Monte Carlo Methods for Inference and Data Analysis.
+Final project for <a href="http://iacs-courses.seas.harvard.edu/courses/am207/index.html">AM207: Advanced Scientific Computing: Stochastic Optimization Methods. Monte Carlo Methods for Inference and Data Analysis</a>.
 
 Soren Larson and Conor Myhrvold
 
-
+=================
 
 For what is Part 1 of the project, see: https://github.com/myhrvold/MH370_MCMC which is self-referenced and documented.
 
