@@ -15,7 +15,7 @@ Course Instructor: <a href="http://iacs.seas.harvard.edu/people/pavlos-protopapa
 For what is Part 1 of the project, see: https://github.com/myhrvold/MH370_MCMC which is self-referenced and documented. Here we include a Hidden Markov Model (Part 2) and Kalman Filter implementation (Part 3).
 
 - Overall Website (which is actually many separate pages, but here we provide them all below)
-- Parts 2&3 IPython Notebook of Code
+- Parts 2&3 IPython Notebook of Code (see repository)
 - Overall Project Report PDF
 - Overall Poster PDF
 
