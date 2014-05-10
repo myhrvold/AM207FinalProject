@@ -53,7 +53,11 @@ Part 1, Version 3
 
 http://nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold-V3.ipynb?create=1
 
-Parts 2&3
+Part 2
+
+TBD
+
+Part 3
 
 TBD
 
