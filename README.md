@@ -16,7 +16,7 @@ For what is Part 1 of the project, see: https://github.com/myhrvold/MH370_MCMC w
 
 - Overall Website (which is actually many separate pages, but here we provide them all below)
 - Parts 2&3 IPython Notebook of Code
-- Overall Project Writeup PDF
+- Overall Project Report PDF
 - Overall Poster PDF
 
 =================
@@ -67,6 +67,6 @@ Poster for the IACS Advisory Board Poster Session, to be held May 16,2014. Versi
 
 =================
 
-<b> Project Write-up </b>
+<b> Report </b>
 
 Our project writeup, which describes all parts of our project can be found in or repository, or get it here: <a href="https://dl.dropboxusercontent.com/u/14868427/5-9-14MyhrvoldSorenAM207Poster.pdf">Write-up Dropbox Link</a>.
