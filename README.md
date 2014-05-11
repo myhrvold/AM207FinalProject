@@ -53,13 +53,11 @@ Part 1, Version 3
 
 http://nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold-V3.ipynb?create=1
 
-Part 2
+Parts 2&3
 
-TBD
+http://nbviewer.ipython.org/github/myhrvold/AM207FinalProject/blob/master/AM207_MyhrvoldLarson_HMM_KalmanPart1of2.ipynb?create=1
 
-Part 3
-
-TBD
+http://nbviewer.ipython.org/github/myhrvold/AM207FinalProject/blob/master/AM207_MyhrvoldLarson_HMM_KalmanPart2of2.ipynb?create=1
 
 =================
 
