@@ -12,11 +12,11 @@ Course Instructor: <a href="http://iacs.seas.harvard.edu/people/pavlos-protopapa
 <p>Harvard University, School of Engineering and Applied Sciences (<a href="http://www.seas.harvard.edu/">SEAS</a>), Institute for Applied Computational Science (<a href="http://iacs.seas.harvard.edu/">IACS</a>)</p>
 =================
 
-For what is Part 1 of the project, see: https://github.com/myhrvold/MH370_MCMC which is self-referenced and documented. Here we include a Hidden Markov Model and Kalman Filter implementation.
+For what is Part 1 of the project, see: https://github.com/myhrvold/MH370_MCMC which is self-referenced and documented. Here we include a Hidden Markov Model (Part 2) and Kalman Filter implementation (Part 3).
 
 - Overall Website (which is actually many separate pages, but here we provide them all below)
-- Part 2 IPython Notebook of Code
-- Overall Project Writeup PDF
+- Parts 2&3 IPython Notebook of Code (see repository)
+- Overall Project Report PDF
 - Overall Poster PDF
 
 =================
@@ -53,7 +53,11 @@ Part 1, Version 3
 
 http://nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold-V3.ipynb?create=1
 
-Parts 2A&2B
+Part 2
+
+TBD
+
+Part 3
 
 TBD
 
@@ -64,3 +68,9 @@ TBD
 See in this repository, or get it here: <a href="https://dl.dropboxusercontent.com/u/14868427/5-9-14MyhrvoldSorenAM207Poster.pdf">Poster Dropbox Link</a>.
 
 Poster for the IACS Advisory Board Poster Session, to be held May 16,2014. Version 2 of original poster presented at <a href="http://www.seas.harvard.edu/designfair">SEAS Design Fair</a> on May 6, 2014.
+
+=================
+
+<b> Report </b>
+
+Our project writeup, which describes all parts of our project can be found in or repository, or get it here: <a href="">Write-up Dropbox Link</a>.
