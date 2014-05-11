@@ -35,7 +35,7 @@ http://www.fastcolabs.com/3028847/with-new-information-our-data-models-point-to-
 
 http://www.fastcolabs.com/3029199/as-black-box-pings-go-silent-heres-how-data-can-narrow-the-search-for-malaysia-air-flight-37
 
-<i>Technical Descriptions and Visualizations</i>
+<i>Technical Descriptions and Visualizations via IPython Notebooks</i>
 
 Part 1, Version 1
 
