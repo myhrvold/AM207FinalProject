@@ -78,4 +78,6 @@ Our project writeup, which describes all parts of our project, can be found in o
 
 <b> Screencast </b>
 
+Our screencast is here: http://youtu.be/uWNyE_312-I
+
 Our screencast presentation can be found in our repository, or get it here: <a href="https://dl.dropboxusercontent.com/u/14868427/MyhrvoldLarsonMH370Screencast.pdf">SCreencast Pres Dropbox Link</a>.
